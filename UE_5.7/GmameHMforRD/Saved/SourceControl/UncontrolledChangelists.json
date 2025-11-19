@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/gitHub/UE_rdProjekt1/UE_5.7/GmameHMforRD/Content/Bluprints/BP_Damager.uasset",
+				"F:/gitHub/UE_rdProjekt1/UE_5.7/GmameHMforRD/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/gitHub/UE_rdProjekt1/UE_5.7/GmameHMforRD/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/9A/G8UAYFW0H7548LS8ZNM5NJ.uasset",
+				"F:/gitHub/UE_rdProjekt1/UE_5.7/GmameHMforRD/Content/ThirdPerson/Blueprints/WBP_HUD.uasset"
+			]
+		}
+	]
+}
